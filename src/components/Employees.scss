@@ -1,0 +1,21 @@
+.card {
+    background-color:bisque;
+    border: 2px solid lightgray;
+    border-radius: 25%;
+    
+    
+
+    &__emp-name {
+        color: darkblue;
+        font-size: 12px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
+
+    &__emp-role {
+        color: blueviolet;
+        font-size: 10px;
+        font-style: italic;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+}

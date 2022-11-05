@@ -1,0 +1,16 @@
+.card {
+  background-color: bisque;
+  border: 2px solid lightgray;
+  border-radius: 25%;
+}
+.card__emp-name {
+  color: darkblue;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card__emp-role {
+  color: blueviolet;
+  font-size: 10px;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}/*# sourceMappingURL=Employees.css.map */

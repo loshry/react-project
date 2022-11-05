@@ -1,0 +1,21 @@
+.App {
+  margin: 5%;
+  padding: 2px;
+  text-align: center;
+  box-sizing: border-box;
+  border: 2px solid black;
+}
+
+.title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  color: darkblue;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 5px;
+  row-gap: 5px;
+  margin: 10%;
+}/*# sourceMappingURL=App.css.map */
